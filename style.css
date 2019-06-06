@@ -1,0 +1,71 @@
+.header {
+	height: 50px;
+}
+
+.container {
+	height: 1000px;
+}
+
+.minblo {
+	height: 1000px;
+}
+
+.main-txt {
+	height: 100px;
+}
+
+.txt {
+	height: 50px;
+}
+
+.like {
+	height: 50px;
+}
+
+.icon {
+	height: 200px;
+}
+
+.info {
+	height: 200px;
+}
+
+.imgv {
+	height: 120px;
+	width: 190px;
+}
+
+.btn {
+	margin-left: 60px;
+}
+
+.container a{
+	color: grey;
+	text-decoration: none;
+}
+
+.container a:hover{
+	color: grey;
+	text-decoration: none;
+}
+
+.s3 {
+	background-image: url(3.png);
+	width: 35px;
+	height: 27px;
+	background-size: 29px;
+	background-position: center;
+}
+
+.search {
+	width: 530px;
+	height: 27px;
+	display: block;
+}
+.sw {
+	margin-left: 95px;
+}
+
+.we {
+	margin-left: 120px;
+}
